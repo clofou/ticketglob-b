@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "664725274473",
+    "project_id": "ticketglob",
+    "storage_bucket": "ticketglob.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664725274473:android:b68feebc8803fdc10307f8",
+        "android_client_info": {
+          "package_name": "com.example.ticketglob"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPPZf5JFJMlu6TUZdFKJfIZzPNc-USql8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
